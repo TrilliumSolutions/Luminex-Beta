@@ -7,7 +7,7 @@ I believe this is heavily skidded, especially the UI part (Forgor the name of th
 
 # How To Use
 
-1. Download the client from [here](https://github.com/TrilliumSolutions/Luminex-Beta/blob/main/LuminexBeta-1.21.4.jar).
+1. Download the client from [here](https://github.com/TrilliumSolutions/Luminex-Beta/raw/refs/heads/main/LuminexBeta-1.21.4.jar).
 2. Extract it into .minecraft/mods folder
 3. Launch with Fabric 1.21.4
 4. Click RShift to open UI
